@@ -1,6 +1,6 @@
-### Hello there! 👋
+## Hello there! 👋
 
-Nice to meet you, although this is kinda one-sided. I'm CG360 (or just Will) and I'm an Year 12 A-Level Computer Science student based in the UK! My favourite genre of game is the Metroidvania genre if that's important.
+Nice to meet you, although this is kinda one-sided. I'm CG360 (or just Will) and I'm an Year 12 A-Level Computer Science student based in the UK! My favourite genre of game is the Metroidvania genre if that's important. I prefer Quality > Quantity and will obsess over the little details. :)
 
 ### What do I usually work on?
 
