@@ -14,12 +14,14 @@ As of now, I'm primarily working on NewGamesAPI V2 (What a great name) over in t
 - [NSAPI Map Tools](https://github.com/NewServerAPI-Project/NewServer-MapTools)
 - [NSAPI Commons](https://github.com/NewServerAPI-Project/NSAPICommons)
 - [NGAPI 2.0](https://github.com/NewServerAPI-Project/NGAPI2) (1.0 will be opensourced with 2.0)
-- [SumoX](https://github.com/Mooncraft-Games/GamemodeSumoX) (Mooncraft Games)
 
 #### What's on hold?
 - [NukkitTables](https://github.com/CloudG360/NukkitTables) (It's structurally complete, just missing a lot of vanilla conditions + functions)
 - [NoteblockStudio4J](https://github.com/CloudG360/NoteblockStudio4J-Live) (Probably will be rewritten)
 
+#### Completed Projects (Maintained)
+
+- [SumoX](https://github.com/Mooncraft-Games/GamemodeSumoX) (Mooncraft Games)
 
 #### So what are all the other repos?
 
