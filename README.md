@@ -11,13 +11,14 @@ I tend to work on Minecraft Server projects (Spigot + Nukkit) and the occasional
 
 As of now, I'm primarily working on NewGamesAPI V2 (What a great name) over in the [NSAPI Organisation](https://github.com/NewGamesAPI-Project) along with my Computer Science coursework so some projects may take a while to be completed. The following are listed in order of priority.
 
-- NSAPI Map Tools
-- NGAPI 2.0 (1.0 will be opensourced with 2.0)
-- NukkitTables
-- SumoX (Mooncraft Games)
+- [NSAPI Map Tools](https://github.com/NewServerAPI-Project/NewServer-MapTools)
+- [NSAPI Commons](https://github.com/NewServerAPI-Project/NSAPICommons)
+- [NGAPI 2.0](https://github.com/NewServerAPI-Project/NGAPI2) (1.0 will be opensourced with 2.0)
+- [SumoX](https://github.com/Mooncraft-Games/GamemodeSumoX) (Mooncraft Games)
 
 #### What's on hold?
-- NoteblockStudio4J (Probably will be rewritten)
+- [NukkitTables](https://github.com/CloudG360/NukkitTables) (It's structurally complete, just missing a lot of vanilla conditions + functions)
+- [NoteblockStudio4J](https://github.com/CloudG360/NoteblockStudio4J-Live) (Probably will be rewritten)
 
 
 #### So what are all the other repos?
