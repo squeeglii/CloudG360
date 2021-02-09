@@ -4,7 +4,7 @@ Nice to meet you, although this is kinda one-sided. I'm CG360 (or just Will) and
 
 ### What do I usually work on?
 
-I tend to work on Minecraft Server projects (Spigot + Nukkit) and the occasional game in Unity! Creative projects are some of the best but sometimes working on larger systems is fun. Quite a few of my projects, however, have been developed for the [Mooncraft Games](https://github.com/Mooncraft-Games) Bedrock server which I and GuardianInASuit are working on!
+I tend to work on Minecraft Server projects (Spigot + Nukkit) and the occasional game in Unity! Creative projects are some of the best but sometimes working on larger systems is fun. Quite a few of my projects, however, have been developed for the [Mooncraft Games](https://github.com/Mooncraft-Games) Bedrock server which GuardianInASuit, DaPerson and I are working on!
 
 
 ### What's in development?
