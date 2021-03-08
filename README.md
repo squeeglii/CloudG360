@@ -18,6 +18,7 @@ As of now, I'm primarily working on NewGamesAPI V2 (What a great name) over in t
 #### What's on hold?
 - [NukkitTables](https://github.com/CloudG360/NukkitTables) (It's structurally complete, just missing a lot of vanilla conditions + functions)
 - [NoteblockStudio4J](https://github.com/CloudG360/NoteblockStudio4J-Live) (Probably will be rewritten)
+- [Litematica: Printer for 1.12.2](https://github.com/CloudG360/Litematica-1.12-Printer) (Rendering issues with dev modpack)
 
 #### Completed Projects (Maintained)
 
@@ -35,5 +36,5 @@ I tend to keep any project with some progress up on my Github as some of the cod
 If you want to collaborate on anything or just talk in general, the best place to catch me is on discord!
 
 - **Discord:** CG360#0001
-- **Twitter:** @CloudG360
-
+- **Twitter:** [@CloudG360](https://twitter.com/CloudG360)
+- **Reddit:** [u/CloudG360](https://www.reddit.com/user/CloudG360)
