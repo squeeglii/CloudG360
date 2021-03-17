@@ -11,14 +11,15 @@ I tend to work on Minecraft Server projects (Spigot + Nukkit) and the occasional
 
 As of now, I'm primarily working on NewGamesAPI V2 (What a great name) over in the [NSAPI Organisation](https://github.com/NewGamesAPI-Project) along with my Computer Science coursework so some projects may take a while to be completed. The following are listed in order of priority.
 
-- [NSAPI Commons](https://github.com/NewServerAPI-Project/NSAPICommons)
-- [NGAPI 2.0](https://github.com/NewServerAPI-Project/NGAPI2) (1.0 will be opensourced with 2.0)
-- [OofTracker](https://github.com/CloudG360/OofTracker)
+- [NSAPI Commons](https://github.com/NewServerAPI-Project/NSAPICommons) - My main utility library
+- [NGAPI 2.0](https://github.com/NewServerAPI-Project/NGAPI2) - version 1.0 will be opensourced with 2.0's release
+- [OofTracker](https://github.com/CloudG360/OofTracker) - Damage tracking + some other fancy features
+- [Tabletop Boardgames Plugin](https://github.com/CloudG360/TabletopGamesPlugin) I just wanted jenga.
 
 #### What's on hold?
-- [NukkitTables](https://github.com/CloudG360/NukkitTables) (It's structurally complete, just missing a lot of vanilla conditions + functions)
-- [NoteblockStudio4J](https://github.com/CloudG360/NoteblockStudio4J-Live) (Probably will be rewritten)
-- [Litematica: Printer for 1.12.2](https://github.com/CloudG360/Litematica-1.12-Printer) (Rendering issues with dev modpack)
+- [NukkitTables](https://github.com/CloudG360/NukkitTables) - It's structurally complete, just missing a lot of vanilla conditions + functions
+- [NoteblockStudio4J](https://github.com/CloudG360/NoteblockStudio4J-Live) - Probably will be rewritten
+- [Litematica: Printer for 1.12.2](https://github.com/CloudG360/Litematica-1.12-Printer) - Rendering issues with dev modpack
 
 #### Completed Projects (Maintained)
 
