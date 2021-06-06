@@ -11,9 +11,10 @@ I tend to work on Minecraft Server projects (Spigot + Nukkit) and the occasional
 
 As of now, I'm primarily working on NewGamesAPI V2 (What a great name) over in the [NSAPI Organisation](https://github.com/NewGamesAPI-Project) along with my Computer Science coursework so some projects may take a while to be completed. The following are listed in order of priority.
 
+- [StatTrackAPI](https://github.com/Mooncraft-Games/StatTrackAPI) - Mmm server/player stats. Gotta add an open-source DB library
 - [NSAPI Commons](https://github.com/NewServerAPI-Project/NSAPICommons) - My main utility library
 - [NGAPI 2.0](https://github.com/NewServerAPI-Project/NGAPI2) - version 1.0 will be opensourced with 2.0's release
-- [Tabletop Boardgames Plugin](https://github.com/CloudG360/TabletopGamesPlugin) I just wanted jenga.
+- [Tabletop Boardgames Plugin](https://github.com/CloudG360/TabletopGamesPlugin) I just wanted jenga...
 
 #### What's on hold?
 - [OofTracker](https://github.com/CloudG360/OofTracker) - Too busy right now :)
@@ -35,6 +36,6 @@ I tend to keep any project with some progress up on my Github as some of the cod
 
 If you want to collaborate on anything or just talk in general, the best place to catch me is on discord!
 
-- **Discord:** CG360#0001
+- **Discord:** CG360#0001 or [https://discord.gg/KxAs4Fqckg](https://discord.gg/KxAs4Fqckg)
 - **Twitter:** [@CloudG360](https://twitter.com/CloudG360)
 - **Reddit:** [u/CloudG360](https://www.reddit.com/user/CloudG360)
