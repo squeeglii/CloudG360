@@ -1,34 +1,19 @@
 ## Hello there! 👋
 
-Nice to meet you, although this is kinda one-sided. I'm CG360 (or just Will) and I'm an Year 12 A-Level Computer Science student based in the UK! My favourite genre of game is the Metroidvania genre if that's important. I prefer Quality > Quantity and will obsess over the little details. :)
+It's been a while since I last updated this but yeah, let's start with the basics. I'm Will/CG360 and I go by He/They pronouns. ^^ - Currently, I'm in Year 13 studying Computer Science, Maths, and Physics and I should be completing my A-Levels in May if the dinosaurs aren't resurrected! Most of my favourite projects involve me writing useful APIs or just creating fun games for other people to enjoy, hence why I'm currently leading the development effort at MadBlock Games!
 
-### What do I usually work on?
+Laungage-wise, I've tinkered around with a few in the past. My go-to favourites are C# + Java for larger projects and Python for smaller projects. Recently, I've been dabbling with Rust, C++, and Go for other projects 👀
 
-I tend to work on Minecraft Server projects (Spigot + Nukkit) and the occasional game in Unity! Creative projects are some of the best but sometimes working on larger systems is fun. Quite a few of my projects, however, have been developed for the [MadBlock](https://github.com/Mooncraft-Games) Bedrock server which GuardianInASuit, DaPerson and I are working on!
+Oh and my favourite game? I would be torn between Minecraft and Super Metroid if someone asked me that.
 
+Also, cats are nice. Send me some <3
 
-### What's in development?
+---
 
-As of now, I'm primarily working on NewGamesAPI V2 (What a great name) over in the [NSAPI Organisation](https://github.com/NewGamesAPI-Project) along with my Computer Science coursework so some projects may take a while to be completed. The following are listed in order of priority.
+### What am I working on?
 
-- [StatTrackAPI](https://github.com/Mooncraft-Games/StatTrackAPI) - Mmm server/player stats. Gotta add an open-source DB library
-- [NSAPI Commons](https://github.com/NewServerAPI-Project/NSAPICommons) - My main utility library
-- [NGAPI 2.0](https://github.com/NewServerAPI-Project/NGAPI2) - version 1.0 will be opensourced with 2.0's release
-- [Tabletop Boardgames Plugin](https://github.com/CloudG360/TabletopGamesPlugin) I just wanted jenga...
+Currently, I'm working on a few large changes to MadBlock as well as my Computer Science coursework so it's been pretty busy. I should be back to writing a few open source projects in no time. 😎
 
-#### What's on hold?
-- [OofTracker](https://github.com/CloudG360/OofTracker) - Too busy right now :)
-- [NukkitTables](https://github.com/CloudG360/NukkitTables) - It's structurally complete, just missing a lot of vanilla conditions + functions
-- [NoteblockStudio4J](https://github.com/CloudG360/NoteblockStudio4J-Live) - Probably will be rewritten
-
-#### Completed Projects (Maintained)
-
-- [SumoX](https://github.com/Mooncraft-Games/GamemodeSumoX) (Madblock)
-- [NSAPI Map Tools](https://github.com/NewServerAPI-Project/NewServer-MapTools) (Completed MapID2. Cube16 is suspended for the time being)
-
-#### So what are all the other repos?
-
-I tend to keep any project with some progress up on my Github as some of the code may be reusable. Typically, they're archived once I have no intention to revisit them in the future.
 
 ---
 
