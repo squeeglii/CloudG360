@@ -21,6 +21,6 @@ Currently, I'm working on a few large changes to MadBlock as well as my Computer
 
 If you want to collaborate on anything or just talk in general, the best place to catch me is on discord!
 
-- **Discord:** CG360#0001 or [https://discord.gg/KxAs4Fqckg](https://discord.gg/KxAs4Fqckg)
+- **Discord:** CG360#0001
 - **Twitter:** [@CloudG360](https://twitter.com/CloudG360)
 - **Reddit:** [u/CloudG360](https://www.reddit.com/user/CloudG360)
