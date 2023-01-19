@@ -1,6 +1,6 @@
 ## Hello there! 👋
 
-Pretty much focusing all my efforts on (Pizza Server)[https://github.com/PizzaServer/PizzaServer] so that I can use it in other projects. :)
+Pretty much focusing all my efforts on [Pizza Server](https://github.com/PizzaServer/PizzaServer) so that I can use it in other projects. :)
 Other than that, Uni work is just happening. Maybe a few side projects that go nowhere?
 
 ---
